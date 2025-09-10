@@ -5,6 +5,10 @@ Duplicate each column using the prefix B for the copied columns
     %stop_submission;
 
     Duplicate each column using the prefix B for the copied columns
+    
+    github
+    https://tinyurl.com/adw777n8
+    https://github.com/rogerjdeangelis/utl-duplicate-each-column-using-the-prefix-B-for-the-copied-columns
 
     sas communities
     https://tinyurl.com/mtdf9xym
