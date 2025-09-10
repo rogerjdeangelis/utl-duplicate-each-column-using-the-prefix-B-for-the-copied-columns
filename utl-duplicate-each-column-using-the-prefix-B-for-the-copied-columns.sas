@@ -4,6 +4,10 @@
 
 Duplicate each column using the prefix B for the copied columns
 
+github
+https://tinyurl.com/adw777n8
+https://github.com/rogerjdeangelis/utl-duplicate-each-column-using-the-prefix-B-for-the-copied-columns
+
 sas communities
 https://tinyurl.com/mtdf9xym
 https://communities.sas.com/t5/SAS-Programming/PROC-SQL-DB-WITH-SAME-COLUMNS/m-p/730615#M227530
